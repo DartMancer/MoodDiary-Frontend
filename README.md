@@ -1,3 +1,3 @@
-# mood_diary
+# MoodDiary Frontend
 
 A new Flutter project.
