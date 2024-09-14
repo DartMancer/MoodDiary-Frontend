@@ -64,4 +64,7 @@ flutter {
     source '../..'
 }
 
-dependencies {}
+dependencies {    
+    // Eliminate this line (or the entire dependencies block)
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.7.20"
+}
